@@ -1,0 +1,23 @@
+{
+  "name": "english-questions-api",
+  "version": "1.0.0",
+  "description": "an API of English questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pawson1988/English-questions-API.git"
+  },
+  "author": "James Pawson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pawson1988/English-questions-API/issues"
+  },
+  "homepage": "https://github.com/Pawson1988/English-questions-API#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
